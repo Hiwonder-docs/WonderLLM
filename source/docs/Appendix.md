@@ -1,6 +1,6 @@
 # Appendix
 
-- System Image & Source Code：If you want to get the system image and source code, please email us at support@hiwonder.com, and share your order number :)
+- Factory Firmware: [CI1302 Chip Factory Firmware](https://drive.google.com/drive/folders/1QECUQM_E7lZpxnsLKtbQsQ2RA9NFbvvK?usp=sharing)
 - bin：[busybox.exe](https://drive.google.com/drive/u/0/folders/1vGpM5gelGynGanEMQckiP2w02MRp1GL8)
 - CI1302 Chip Flashing Tool: [code_program.exe](https://drive.google.com/drive/u/0/folders/1oCHs6woHWsz_ArNnU3eKYT9XeGiJBZ4Y)
 - flash_download_tool_3.9.7: [flash_download_tool_3.9.7.exe](https://drive.google.com/drive/u/0/folders/1r355OOmjtjOvgV5XG7zXBvjwERB7eBE8)
